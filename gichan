@@ -1,0 +1,2 @@
+in [2] import pandas ad pd
+ddf = pd.read_scv
